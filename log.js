@@ -1,0 +1,4 @@
+let apiToken = "1203552407:AAEzzoGU4vmPUcMu7YqJhutD3od9u0W8yZQ";
+let chatId = "-1001663578358"
+const BOT_TOKEN = "1203552407:AAEzzoGU4vmPUcMu7YqJhutD3od9u0W8yZQ";
+const CHAT_ID = "-1001663578358";
