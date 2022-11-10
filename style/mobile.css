@@ -62,10 +62,10 @@
     width: 100% !important;
     height: auto !important;
     border-radius: 5.333vw !important;
-    border: 3.2vw solid rgba(0, 0, 0, 0.2) !important;
+    border: 3.2vw solid rgba(0, 0, 0, 0) !important;
   }
   .right-content {
-    background-color: rgba(0, 0, 0, 0.66) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
     border-radius: 2.133vw !important;
     height: 133.333vw !important;
   }
