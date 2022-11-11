@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Mutant Y00ts";
-const discord = 'https://discord.gg/myyc';
-const twitter = 'https://twitter.com/myyc';
+const namess="BAKII";
+const discord = 'https://discord.gg/bakii';
+const twitter = 'https://twitter.com/bakii';
 const startCounter = 3186;
 const endCounter = 3333;
 const IMGPrice=0.005;
